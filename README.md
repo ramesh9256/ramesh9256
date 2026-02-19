@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack & MERN Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,11 +11,8 @@
 
 - 🔭 I’m currently building **full stack web applications**
 - 🌱 I’m constantly learning **JavaScript | React | Node.js | MongoDB**
-- 💬 Ask me about **MERN Stack, JavaScript, Firebase, and Backend APIs**
-- 🧠 Currently exploring **DevOps and System Design**
-- 💼 Looking for full-time/intern opportunities as a **Full Stack Developer**
+- 💬 Ask me about **MERN Stack, JavaScript, and Backend APIs**
 - 📫 Reach me at: **9256.ramesh@gmail.com**
-- ⚡ Fun Fact: I can debug faster than I can cook Maggi 😄
 
 ---
 
